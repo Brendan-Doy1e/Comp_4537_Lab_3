@@ -1,3 +1,5 @@
+//Chatgpt, github Copilot used for coding, debugging, refactoring, and documentation.
+
 // Include the required modules: http for server creation and URL for URL parsing.
 const http = require('http');
 const url = require('url');

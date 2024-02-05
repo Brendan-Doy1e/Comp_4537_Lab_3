@@ -1,3 +1,5 @@
+//Chatgpt, github Copilot used for coding, debugging, refactoring, and documentation.
+
 // Import the custom math module from the specified path.
 const mo = require('./modules/math');
 

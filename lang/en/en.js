@@ -1,3 +1,5 @@
+//Chatgpt, github Copilot used for coding, debugging, refactoring, and documentation.
+
 const messages = {
     GREETING: 'Hello ',
     RESULT: ', What a beautiful day. Server current date and time is ',
